@@ -1,3 +1,9 @@
 [project]
 name = "bidule"
 version = "0.1.0"
+description = "a packaging example"
+readme = "README.md"
+license = {text= "CC-BY-NC-4.0"}
+authors = [
+    {name = "Thierry Parmentelat", email = "thierry.parmentelat@inria.fr"},
+]
