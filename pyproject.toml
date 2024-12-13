@@ -7,3 +7,6 @@ license = {text= "CC-BY-NC-4.0"}
 authors = [
     {name = "Thierry Parmentelat", email = "thierry.parmentelat@inria.fr"},
 ]
+
+[project.scripts]
+bidule-cli = "bidule.main:main"
