@@ -1,3 +1,7 @@
+"""
+The source code for the Machine class.
+"""
+
 from .helpers import helper
 
 class Machine:
