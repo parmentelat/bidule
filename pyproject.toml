@@ -7,6 +7,10 @@ license = {text= "CC-BY-NC-4.0"}
 authors = [
     {name = "Thierry Parmentelat", email = "thierry.parmentelat@inria.fr"},
 ]
+# if your package depends on other packages, list them here
+# dependencies = [
+#     "numpy>=2.3.5",
+# ]
 
 [project.scripts]
 bidule-cli = "bidule.main:main"
